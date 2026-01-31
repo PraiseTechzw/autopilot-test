@@ -1,0 +1,12 @@
+{
+  "debounceSeconds": 20,
+  "minSecondsBetweenCommits": 180,
+  "autoPush": true,
+  "blockBranches": [
+    "main",
+    "master"
+  ],
+  "requireChecks": false,
+  "checks": [],
+  "commitMessageMode": "smart"
+}

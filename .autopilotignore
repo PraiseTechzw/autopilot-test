@@ -1,0 +1,32 @@
+# Autopilot runtime
+.autopilot.pid
+autopilot.log
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
+
+.vscode/
+autopilot.log
+.autopilot.pid
+
+
+.vscode/
+autopilot.log
+.autopilot.pid
+
