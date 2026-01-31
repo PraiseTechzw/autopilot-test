@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "project": {
-    "totalFocusTime": 2082333,
-    "totalActiveTime": 518274
+    "totalFocusTime": 2221797,
+    "totalActiveTime": 525124
   },
   "files": {
     "README.md": {
@@ -15,7 +15,7 @@
     },
     ".autopilotignore": {
       "pending": 1572,
-      "focus": 94491
+      "focus": 95712
     },
     ".autopilot.pid": {
       "pending": 0,
@@ -24,6 +24,10 @@
     ".autopilotrc.json": {
       "pending": 0,
       "focus": 1489
+    },
+    "main.py": {
+      "pending": 6850,
+      "focus": 105713
     }
   }
 }
